@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/github.io/Fullstack-app/static/css/main.458f3a34.css",
+    "main.js": "/github.io/Fullstack-app/static/js/main.67bc7496.js",
+    "static/js/787.0bca8be2.chunk.js": "/github.io/Fullstack-app/static/js/787.0bca8be2.chunk.js",
+    "static/media/dimage.jpg": "/github.io/Fullstack-app/static/media/dimage.8221fb7c4d7af932b1e2.jpg",
+    "static/media/loginimage.jpg": "/github.io/Fullstack-app/static/media/loginimage.eed7ab42dc00a3357ec3.jpg",
+    "static/media/rimage.jpg": "/github.io/Fullstack-app/static/media/rimage.5b2d82970b61a7a3ebd8.jpg",
+    "static/media/bimage.jpg": "/github.io/Fullstack-app/static/media/bimage.b57944f3accb13487da2.jpg",
+    "index.html": "/github.io/Fullstack-app/index.html",
+    "main.458f3a34.css.map": "/github.io/Fullstack-app/static/css/main.458f3a34.css.map",
+    "main.67bc7496.js.map": "/github.io/Fullstack-app/static/js/main.67bc7496.js.map",
+    "787.0bca8be2.chunk.js.map": "/github.io/Fullstack-app/static/js/787.0bca8be2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.458f3a34.css",
+    "static/js/main.67bc7496.js"
+  ]
+}
