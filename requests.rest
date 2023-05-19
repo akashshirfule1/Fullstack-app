@@ -1,0 +1,12 @@
+POST http://localhost:3009/api/register,
+{"name": " Akash",
+ "email": "akash1@gmail.com", 
+"password": " Password"}
+
+
+###
+POST http://localhost:3009/api/login,
+{
+    "email":"priti@gmail.com",
+    "password":"priti"
+}
